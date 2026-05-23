@@ -3,7 +3,11 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "338735da-d5a6-4aa6-8278-e2af2e78bee1")
-	(paper "A4")
+	(paper "A5")
+	(title_block
+		(title "Door Terminal Adapter PCB")
+		(rev "V 1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
